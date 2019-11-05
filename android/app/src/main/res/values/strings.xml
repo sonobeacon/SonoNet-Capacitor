@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SonoIonic</string>
+    <string name="title_activity_main">SonoIonic</string>
+    <string name="package_name">com.sonobeacon.sonoionic</string>
+    <string name="custom_url_scheme">com.sonobeacon.sonoionic</string>
+</resources>

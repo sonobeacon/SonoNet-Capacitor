@@ -1,0 +1,8 @@
+{
+  "appId": "com.sonobeacon.sonoionic",
+  "appName": "SonoIonic",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
