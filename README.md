@@ -5,7 +5,7 @@
 
 1. Install via npm:
 ```
-npm install sononet
+npm install @sonobeacon/sononet
 ```
 
 #### Permissions
